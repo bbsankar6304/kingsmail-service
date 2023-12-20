@@ -20,5 +20,5 @@ public class MailApplicationConstants {
 	public static final int MIN_OTP_VALUE = 1000;
 	public static final int MAX_OTP_VALUE = 9999;
 
-
+	// GIt Undo
 }
